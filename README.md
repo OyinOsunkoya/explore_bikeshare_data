@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+18th May, 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Interactive data exploration of Divvy bikeshare system in Chicago, New york city and Washington as part of my Udacity Programming for Data Science with Python Nanodegree Program.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity - Programming for Data Science with Python Nanodegree Program
 
